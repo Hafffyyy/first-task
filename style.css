@@ -1,0 +1,15 @@
+body{
+    background-color: darkolivegreen;
+    background-position: 2%;
+}
+h1{
+    font-size: largers;
+    color: whitesmoke;
+}
+.centre{
+    background-color: gray;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    width: 9cm;
+}
